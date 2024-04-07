@@ -4,17 +4,32 @@
       "file": "/storage/emulated/0/AndroidIDEProjects/My Application/app/src/main/res/layout/activity_main.xml",
       "selection": {
         "end": {
-          "column": 30,
-          "index": 405,
-          "line": 9
+          "column": 48,
+          "index": 603,
+          "line": 13
         },
         "start": {
-          "column": 30,
-          "index": 405,
-          "line": 9
+          "column": 2,
+          "index": 284,
+          "line": 6
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/My Application/app/src/main/res/layout/activity_test.xml",
+      "selection": {
+        "end": {
+          "column": 4,
+          "index": 331,
+          "line": 7
+        },
+        "start": {
+          "column": 4,
+          "index": 331,
+          "line": 7
         }
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/My Application/app/src/main/res/layout/activity_main.xml"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/My Application/app/src/main/res/layout/activity_test.xml"
 }
